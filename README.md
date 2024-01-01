@@ -1,1 +1,1 @@
-Here is some Problem solving solution [python]
+Here is some Problem-solving solution [python]
